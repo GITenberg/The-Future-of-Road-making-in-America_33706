@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1112'
     url: http://www.gutenberg.org/2009/agents/1112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33706#The-Future-of-Road-making-in-America
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-09-12'
 gutenberg_type: Text
