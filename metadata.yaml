@@ -1,0 +1,31 @@
+_repo: The-Future-of-Road-making-in-America_33706
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33706'
+  lccn: 05001841
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 15
+subjects:
+- !lcsh 'Roads'
+- !lcc 'HE'
+- !lcsh 'Roads -- United States'
+- !lcsh 'Roads -- United States -- Design and construction'
+title: The Future of Road-making in America
+url: http://www.gutenberg.org/ebooks/33706
